@@ -1,0 +1,41 @@
+html {
+    background-color: azure;
+    border-left: 10px double brown;
+    border-right: 10px double brown;
+}
+
+body {
+    margin: 5%;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 3px solid ;
+}
+
+span {
+    font-style: italic;
+}
+
+.lorem {
+    text-align: justify;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.logo {
+    margin-top: 20px;
+    text-align: center;
+}
+   
+h2 li:hover {
+    color: red;
+}
+
+
+
+

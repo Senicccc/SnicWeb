@@ -1,0 +1,89 @@
+html {
+    background-image: url(bg3.jpg);
+    
+}
+
+.container {
+    background-color: beige;
+    border: 1px solid green;
+    margin: -10px 30px -10px 30px;
+}
+
+.header .jdul1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: 12px 12px 12px 2px;
+    text-align: left;
+    color: brown;
+    
+}
+
+.link1 a {
+    padding: 4px;
+    color: darkgreen;
+    text-decoration: none;
+}
+
+.l1:hover {
+    font-size: 20px;
+    color: red;
+    
+}
+
+.l2:hover {
+    font-size: 20px;
+    color: red;
+}
+
+.l3:hover {
+    font-size: 20px;
+    color: red;
+}
+
+.l4:hover {
+    font-size: 20px;
+    color: red;
+}
+
+.hero {
+    height: 300px;
+    margin: 30px 0px 30px 0px;
+    border-top: 5px solid darkgreen;
+    background-image: url(hero1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -40px;
+    border-bottom: 5px solid yellow;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 3px;
+}
+
+.konten .by {
+    margin-top: -12;
+    margin-left: 5px;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.para {
+    margin: 0px 5px 0px 5px;
+    font-family: sans-serif;
+}
+
+.footer  {
+    background-color: rgb(116, 49, 49);
+   
+
+}
+
+
+.footer .foot {
+    text-align: center;
+    color: yellowgreen;
+    padding: 15px 0px 15px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
